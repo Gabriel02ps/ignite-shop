@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite Shop" title="Ignite Shop" src="../04-ignite-shop/src/assets/logo.svg" width="220px" />
+    <img alt="Ignite Shop" title="Ignite Shop" src="../04-ignite-shop/src/" width="220px" />
 </h1>
 
 <p align="center">
@@ -8,6 +8,9 @@
   <a href="#-how-to-run">How to run</a>
 </p>
 
+<p align="center">
+  <img alt="Ignite Shop" src=".github/ignite-shop-print.png" width="100%">
+</p>
 
 ## 💻 Project
 
